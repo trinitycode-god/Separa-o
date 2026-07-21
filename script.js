@@ -8,8 +8,7 @@
 // Instruções completas em README.md
 // =====================================================================
 const CONFIG = {
-  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbzOU4KHuf-NZMMu65wvRZw8mN4VPZ9r6Lz5j_YrCUw30nfz_TIsY2SRMBahPK1xVt0b/exec"
-};
+  APPS_SCRIPT_URL: https://script.google.com/macros/s/AKfycbzOU4KHuf-NZMMu65wvRZw8mN4VPZ9r6Lz5j_YrCUw30nfz_TIsY2SRMBahPK1xVt0b/exec
 
 // =====================================================================
 // ESTADO GLOBAL
